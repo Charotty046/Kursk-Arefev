@@ -1,6 +1,6 @@
 def print_name():
     print('My first git-repo')
-    print()
+    print(42)
 
 
 if __name__ == '__main__':
